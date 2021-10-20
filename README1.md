@@ -2,8 +2,12 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
+<br/>
 
-### <div align="center">I'm Paul, Software Engineer👨‍💻, Flutter🚀>>>>>>>>>>. But I also love working with NuxtJS, TailWindCSS, and GraphQL too 👀</div>  
+# <div align="center"> I'm Paul, Software Engineer👨‍💻, Flutter🚀>>>>>>>>>>, But I also love working with NuxtJS, TailWindCSS, and GraphQL too 👀 </div>  
+
+
+<br/>  
   
 
 - 🔭 I’m currently contributing to [Zuri Chat Mobile](https://github.com/zurichat/zc_app)  
@@ -21,10 +25,12 @@
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-<div align="center">  
+## My Skill Set  
+<br/>
+
+
+<div align="left">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
@@ -36,22 +42,13 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
 </div>
+<br/>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -76,9 +73,12 @@
 
 <br/>  
 
+<br/>  
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pauleke65&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pauleke65&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauleke65&hide_border=true&layout=compact" align="left" />  
 
